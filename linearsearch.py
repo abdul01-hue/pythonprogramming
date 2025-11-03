@@ -24,3 +24,5 @@ target=int(input("enter the element to be search"))
 fla,ind=linear_search(arr,target)
 print(fla)
 print(ind)
+print("sucessfully executed")
+
